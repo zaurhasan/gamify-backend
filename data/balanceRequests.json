@@ -1,0 +1,73 @@
+[
+  {
+    "id": "BAL-1763259128006",
+    "email": "zaurhasann@mail.ru",
+    "gamifyId": null,
+    "amount": 10,
+    "method": "kapital",
+    "status": "rejected",
+    "credited": false,
+    "receiptUrl": "/uploads/receipt-1763259127988-295459512.jpg",
+    "createdAt": "2025-11-16T02:12:08.006Z",
+    "updatedAt": "2025-11-18T19:35:27.707Z"
+  },
+  {
+    "id": "BAL-1763259265978",
+    "email": "zaurhasann@mail.ru",
+    "gamifyId": null,
+    "amount": 10,
+    "method": "kapital",
+    "status": "rejected",
+    "credited": true,
+    "receiptUrl": "/uploads/receipt-1763259265971-878355936.png",
+    "createdAt": "2025-11-16T02:14:25.978Z",
+    "updatedAt": "2025-11-18T19:35:27.371Z"
+  },
+  {
+    "id": "BAL-1763259795692",
+    "email": "zaurhasann@mail.ru",
+    "gamifyId": null,
+    "amount": 9,
+    "method": "kapital",
+    "status": "rejected",
+    "credited": false,
+    "receiptUrl": "/uploads/receipt-1763259795688-473535287.png",
+    "createdAt": "2025-11-16T02:23:15.692Z",
+    "updatedAt": "2025-11-18T19:35:27.044Z"
+  },
+  {
+    "id": "BAL-1763260912875",
+    "email": "zaurhasann@mail.ru",
+    "gamifyId": null,
+    "amount": 10,
+    "method": "kapital",
+    "status": "rejected",
+    "credited": false,
+    "receiptUrl": "/uploads/receipt-1763260912871-361821386.jpg",
+    "createdAt": "2025-11-16T02:41:52.875Z",
+    "updatedAt": "2025-11-18T19:35:26.697Z"
+  },
+  {
+    "id": "1763562270478",
+    "email": "zaurhasann@mail.ru",
+    "gamifyId": null,
+    "amount": 10,
+    "method": "leobank",
+    "status": "rejected",
+    "receiptFilename": "1763562270466-logo.jpg.png",
+    "receiptUrl": "/uploads/1763562270466-logo.jpg.png",
+    "createdAt": "2025-11-19T14:24:30.478Z",
+    "updatedAt": "2025-11-19T14:28:08.846Z"
+  },
+  {
+    "id": "1763563834150",
+    "email": "zaurhasann@mail.ru",
+    "gamifyId": null,
+    "amount": 10,
+    "method": "kapital",
+    "status": "pending",
+    "receiptFilename": "1763563834137-logo.jpg.png",
+    "receiptUrl": "/uploads/1763563834137-logo.jpg.png",
+    "createdAt": "2025-11-19T14:50:34.150Z"
+  }
+]
